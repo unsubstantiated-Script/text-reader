@@ -1,4 +1,4 @@
-# Infinite Scroller -- Squawker
+# Text Reader -- Chat Buddy
 
 **Version 1.0.2**
 
