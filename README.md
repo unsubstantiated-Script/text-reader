@@ -8,6 +8,17 @@ Challenges faced:
 
 - None so far
 
+Todo:
+Make it funnier by adding in more arrays depending on category. Ideas include:
+
+- Lawyer
+- Politician
+- Teacher
+- Left
+- Right
+- Dog
+- Cat
+
 ## Contributors
 
 - Justin Fulton <unsubstantiated.script@gmail.com>
