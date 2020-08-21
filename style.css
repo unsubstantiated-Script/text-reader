@@ -80,6 +80,10 @@ select:focus {
     transition: all 1s ease-in-out;
 }
 
+.text-box.show {
+    transform: translate(-50%, 0);
+}
+
 .text-box select {
     background-color: var(--second-color);
     border: 0;
@@ -139,7 +143,7 @@ main {
 }
 
 .box.active {
-    box-shadow: 0 0 10px 5px var(--first-color);
+    box-shadow: 0 0 10px 5px var(--fourth-color);
 }
 
 .box img {
@@ -172,7 +176,6 @@ main {
         grid-template-columns: repeat(2, 1fr);
     }
 }
-
 
 
 @media (max-width: 500px) {
